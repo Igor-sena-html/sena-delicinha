@@ -1,0 +1,40 @@
+body{
+    background-color: darkolivegreen;
+}
+
+.painel{
+    margin: auto;
+    background-color: rgb(255, 0, 234);
+    width: 650px;
+    height: 650px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 55px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+#sim{
+    height: 45px;
+    width: 80px;
+    background-color: rgb(251, 194, 88);
+    border: 2px solid rgb(234, 44, 44);
+    border-radius: 20px; 
+    color: black;
+    margin-left: -125px;
+
+
+}
+#nao{
+    position: absolute;
+    height: 45px;
+    width: 80px;
+    background-color: rgb(12, 240, 107);
+    border: 2px solid rgb(65, 18, 158);
+    border-radius: 20px; 
+    color: black;
+    margin-left: 50px;
+
+
+
+}
+
